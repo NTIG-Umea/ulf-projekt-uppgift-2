@@ -2,15 +2,9 @@
 
 Skapa en webbsida med **centrerad layout**, sidan bör vara responsiv.
 
-* Navbar med länkar
-    * Logga, placeras till vänster
-    * Meny, placers till höger
-        * Hem
-        * Om
-        * Kontakt
 * Main med innehåll
     * Rubrik
-    * Bild
+    * Bild, ska vara centrerad och fylla hela bredden (responsivt)
     * Underrubrik
     * Paragrafer med text
 
