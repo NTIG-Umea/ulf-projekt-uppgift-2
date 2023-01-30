@@ -8,10 +8,6 @@ Skapa en webbsida med **centrerad layout**, sidan bör vara responsiv.
     * Underrubrik
     * Paragrafer med text
 
-![Vad du ska skapa](assets/center.png)
-
-![Vad du ska skapa](assets/center-small.png)
-
 # Instruktioner
 
 ## Parprogrammering
