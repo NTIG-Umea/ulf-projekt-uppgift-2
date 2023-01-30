@@ -26,8 +26,10 @@ Till det skapar du css i ett separat dokument.
 
 ## Parsons
 
-Dina instruktionsfiler finns i mappen parsons.
-Du ska utifrån dessa filera skapa sidan. Du behöver redigera båda filerna (index.html och css) och ta bort överflödig/onödig/tveksam html/css.
+Dina instruktionsfiler finns i mappen [parsons/](parsons/).
+
+Du ska utifrån dessa filera skapa en sida med centrerad layout.
+Du behöver redigera båda filerna (index.html och style.css) och ta bort överflödig/onödig/felaktig html/css.
 
 ## Flödesschema
 
