@@ -11,3 +11,33 @@ Skapa en webbsida med **centrerad layout**, sidan bör vara responsiv.
 ![Vad du ska skapa](assets/center.png)
 
 ![Vad du ska skapa](assets/center-small.png)
+
+# Instruktioner
+
+## Parprogrammering
+
+Din uppgift är att skapa en sida med en centrerad layout. Layouten bör fungera för mobiler (responsiv).
+Sidan ska innehålla:
+
+* Rubrik: Lorem ipsum
+* Hero bild, använd https://picsum.photos/ med 16:9 aspect ratio
+* Article element med:
+   * Underrubrik: Dolor sit
+   * Paragraf: Lorem ipsum block
+   * Paragraf: Lorem ipsum block
+   
+Till det skapar du css i ett separat dokument.
+
+## Parsons
+
+???
+
+## Flödesschema
+
+Din uppgift är att skapa en sida med en centrerad layout. Layouten bör fungera för mobiler (responsiv).
+
+Material, skisser.
+
+![Vad du ska skapa](assets/center.png)
+
+![Vad du ska skapa](assets/center-small.png)
